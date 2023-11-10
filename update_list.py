@@ -1,5 +1,5 @@
 update_link = 'https://github.com/evembar/webanlauncher/raw/main/update.zip'
-vern = 1.11
+vern = 1.12
 def get_version(ver):
     if ver < vern:
         return 'update'
